@@ -148,6 +148,7 @@ $toolsList = @(
     (Get-RVersion),
     (Get-SphinxVersion),
     (Get-TerraformVersion),
+    (Get-TfsecVersion),    
     (Get-YamllintVersion),
     (Get-ZstdVersion)
 )

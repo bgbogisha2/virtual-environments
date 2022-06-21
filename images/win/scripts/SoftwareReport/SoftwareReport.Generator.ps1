@@ -116,6 +116,7 @@ $toolsList = @(
     (Get-SVNVersion),
     (Get-VSWhereVersion),
     (Get-SwigVersion),
+    (Get-TfsecVersion),
     (Get-WinAppDriver),
     (Get-WixVersion),
     (Get-ZstdVersion),
