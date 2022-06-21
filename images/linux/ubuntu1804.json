@@ -290,7 +290,7 @@
                 "INSTALLER_SCRIPT_FOLDER={{user `installer_script_folder`}}"
             ],
             "execute_command": "/bin/sh -c '{{ .Vars }} {{ .Path }}'"
-        },       
+        },
         {
             "type": "shell",
             "script": "{{template_dir}}/scripts/base/snap.sh",
