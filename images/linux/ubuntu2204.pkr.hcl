@@ -304,6 +304,7 @@ build {
                         "${path.root}/scripts/installers/sbt.sh",
                         "${path.root}/scripts/installers/selenium.sh",
                         "${path.root}/scripts/installers/terraform.sh",
+                        "${path.root}/scripts/installers/tfsec.sh",
                         "${path.root}/scripts/installers/packer.sh",
                         "${path.root}/scripts/installers/vcpkg.sh",
                         "${path.root}/scripts/installers/dpkg-config.sh",
